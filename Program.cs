@@ -10,7 +10,7 @@ namespace VS_2019_github_user_experience
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Hello first change!");
         }
     }
 }
